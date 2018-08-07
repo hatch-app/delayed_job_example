@@ -1,0 +1,5 @@
+{
+  "name": "delayed_job_example",
+  "private": true,
+  "dependencies": {}
+}
